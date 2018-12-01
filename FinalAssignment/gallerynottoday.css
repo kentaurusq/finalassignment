@@ -1,0 +1,31 @@
+.ntpic1 {
+	
+	background-image: url("nottodaypic.jpg");
+	
+	
+}
+
+.ntpic2{
+	
+	background-image: url("nottoday2.gif");
+	
+	
+	
+}
+
+.ntpic3{
+	
+	background-image: url("nottoday3.gif");
+	
+	
+}
+.ntpic1, .ntpic2, .ntpic3{
+    height:1000px;
+
+    /* Create the parallax scrolling effect */
+    opacity:0.8;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
